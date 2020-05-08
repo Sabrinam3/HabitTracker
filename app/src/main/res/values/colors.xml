@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="active_dots">#FFFFF4</color>
+    <color name="inactive_dots">#000000</color>
+    <color name="helpBackground">#FDFBCE</color>
+    <color name="hubBackground">#69C8C5</color>
+    <color name="dark_teal">#51A5BA</color>
+    <color name="orange">#FF8C00</color>
+    <color name="lime">#c1de1f</color>
+    <color name="green">#008140</color>
+    <color name="red">#e8121e</color>
+    <color name="yellow">#fbfa00</color>
+    <color name="pink">#f85a95</color>
+    <color name = "purple">#7e4ccc</color>
+    <color name="white">#FFFFFF</color>
+    <color name="cyan">#00f8f8</color>
+</resources>
